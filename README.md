@@ -1,12 +1,12 @@
-### Hi there 👋
+👋 Hi, I'm a Software Developer and Tech Enthusiast based in Mozambique, with a strong focus on mobile development, web technologies, and AI. I am passionate about building innovative solutions, particularly those that address real-world challenges in areas like finance, agriculture, and e-commerce.
 
-<!--
-**MrBigBotnx/MrBigBotnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Skills**:
+- **Languages**: Python (Django), Kotlin, Swift, JavaScript, SQL
+- **Mobile Development**: Android Studio (Kotlin), iOS Development (Swift)
+- **Web Development**: Full-stack, with expertise in both frontend and backend
+- **Authentication & Databases**: Firebase Authentication, Django-supported databases
+- **Tech Enthusiast**: Passionate about AI, mobile research, automation, and tech innovation
 
-Here are some ideas to get you started:
+📷 Outside of coding, I'm a mobile photography hobbyist, always on the lookout for creative shots and exploring tech trends.
 
-- 🌱 I’m currently learning python.
-- 👯 I’m looking to collaborate on script tool development.
-- 🤔 I’m looking for help with scripting tools development.
-- 📫 How to reach me: email: mrbigbotnxxuam@gmail.com@gmail.com 
--->
+Feel free to connect with me for collaborations or tech discussions!
