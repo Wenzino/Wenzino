@@ -1,4 +1,4 @@
-👋 Hi, I'm a Software Developer and Tech Enthusiast based in Mozambique, with a strong focus on mobile development, web technologies, and AI. I am passionate about building innovative solutions, particularly those that address real-world challenges in areas like finance, agriculture, and e-commerce.
+👋 Hi Wen here, I'm a Software Developer and Tech Enthusiast based in Mozambique, with a strong focus on mobile development, web technologies, and AI. I am passionate about building innovative solutions, particularly those that address real-world challenges in areas like finance, agriculture, and e-commerce.
 
 💼 **Skills**:
 - **Languages**: Python (Django), Kotlin, Swift, JavaScript, SQL
