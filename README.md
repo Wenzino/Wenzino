@@ -1,4 +1,4 @@
-<h2>Hi techies👋! Wen here,a software developer and tech enthusiast based in Mozambique.</h2>
+<h2>Hi techies👋! Wen here, a software developer and tech enthusiast.</h2>
 
 
 With a strong focus on mobile development, web technologies, and AI. I am passionate about building innovative solutions, particularly those that address real-world challenges in areas like finance, agriculture, and e-commerce.
