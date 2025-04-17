@@ -1,55 +1,69 @@
 <div align="center">
   
-# 👋 Wen Muyi
+## 🚀 Hi Techies! I'm Wen!
 
-**Software Developer** | **Tech Innovator**  
-Building solutions at the intersection of mobility, AI, and human impact
+**Software Engineer** | **Full-Stack Developer**  
+Building performant cross-platform solutions with cutting-edge tech
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2D2B2D?style=flat-square)](https://yourportfolio.link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daiwenxuan_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dai-wen-xuan-6343b6283)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/WenXuan_D)
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**Languages**  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+
+### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-**Mobile**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-
-**Web**  
-![FullStack](https://img.shields.io/badge/-FullStack-333333?style=flat-square&logo=full-stack)
+### 🗄️ Backend & Databases
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+
+### 🖥️ Systems Programming
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+
+### ⚙️ DevOps & Tools
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ---
 
-### 🎯 Focus Areas
+## 🎯 Core Expertise
 
-▸ AI-Driven Mobile Solutions  
-▸ Cross-Platform Architecture Design  
-▸ Scalable Authentication Systems  
-▸ Tech for Social Impact (Fintech, Agritech, E-commerce)
+▸ **Cross-Platform Mobile Architectures** (Flutter, Native iOS/Android)  
+▸ **AI-Integrated Web Applications** (Next.js, React, Python)  
+▸ **High-Performance Backends** (Django, Supabase, PostgreSQL)  
+▸ **System-Level Optimization** (C/C++ for performance-critical applications)  
 
 ---
 
-### 📸 Beyond Code
+## 🌟 Current Focus
 
-When not architecturing systems, I capture urban landscapes through mobile photography and explore emerging tech trends. Believer in "code as art".
+- Building scalable mobile solutions with Flutter + Native bridges
+- Exploring AI/ML integration in mobile environments
+- Optimizing full-stack performance with Supabase and Next.js
+- Contributing to open-source mobile tooling
 
 ---
 
 <div align="center">
 
-📫 **Let's build tomorrow**  
-Reach out for collaborations in mobile innovation or AI-driven projects
+📸 **Mobile Photography Enthusiast** | 💡 **Tech Trend Explorer**  
+📫 Let's collaborate on innovative mobile/web projects!
 
 </div>
