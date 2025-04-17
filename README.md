@@ -26,6 +26,7 @@ Building performant cross-platform solutions with cutting-edge tech
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄️ Backend & Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -37,9 +38,10 @@ Building performant cross-platform solutions with cutting-edge tech
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 
-### ⚙️ DevOps & Tools
+### 🔄 CI/CD & DevOps
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
 
 ---
 
