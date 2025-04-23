@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Building performant cross-platform solutions with cutting-edge tech 🎯 Core Expertise ▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) ▸ AI-Integrated Web Applications (Next.js, React, Python) ▸ High-Performance Backends (Django, Supabase, PostgreSQL) ▸ System-Level Optimization (C/C++ for performance-critical applications) 🌟 Current Focus Building scalable mobile solutions with Flutter + Native bridgesExploring AI/ML integration in mobile environmentsOptimizing full-stack performance with Supabase and Next.jsContributing to open-source mobile tooling
+Building performant cross-platform solutions with cutting-edge tech 
+
+🎯 Core Expertise ▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) ▸ AI-Integrated Web Applications (Next.js, React, Python) ▸ High-Performance Backends (Django, Supabase, PostgreSQL) ▸ System-Level Optimization (C/C++ for performance-critical applications) 🌟 Current Focus Building scalable mobile solutions with Flutter + Native bridgesExploring AI/ML integration in mobile environmentsOptimizing full-stack performance with Supabase and Next.jsContributing to open-source mobile tooling
 
 *   🌍  I'm based in Beira, Mozambique
 *   ✉️  You can contact me at [Daiwenxuam78@gmail.com](mailto:Daiwenxuam78@gmail.com)
