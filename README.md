@@ -1,71 +1,49 @@
-<div align="center">
-  
-## 🚀 Hi Techies! I'm Wen!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wen Xuan
+================================================================================================================================
 
-**Software Engineer** | **Full-Stack Developer**  
-Building performant cross-platform solutions with cutting-edge tech
+Software Engineer
+-----------------
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daiwenxuan_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dai-wen-xuan-6343b6283)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/WenXuan_D)
+Building performant cross-platform solutions with cutting-edge tech 🎯 Core Expertise ▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) ▸ AI-Integrated Web Applications (Next.js, React, Python) ▸ High-Performance Backends (Django, Supabase, PostgreSQL) ▸ System-Level Optimization (C/C++ for performance-critical applications) 🌟 Current Focus Building scalable mobile solutions with Flutter + Native bridgesExploring AI/ML integration in mobile environmentsOptimizing full-stack performance with Supabase and Next.jsContributing to open-source mobile tooling
 
-</div>
-
----
-
-## 🔧 Tech Stack
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-
-### 🌐 Web Development
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🗄️ Backend & Databases
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-
-### 🖥️ Systems Programming
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-
-### 🔄 CI/CD & DevOps
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
-
----
-
-## 🎯 Core Expertise
-
-▸ **Cross-Platform Mobile Architectures** (Flutter, Native iOS/Android)  
-▸ **AI-Integrated Web Applications** (Next.js, React, Python)  
-▸ **High-Performance Backends** (Django, Supabase, PostgreSQL)  
-▸ **System-Level Optimization** (C/C++ for performance-critical applications)  
-
----
-
-## 🌟 Current Focus
-
-- Building scalable mobile solutions with Flutter + Native bridges
-- Exploring AI/ML integration in mobile environments
-- Optimizing full-stack performance with Supabase and Next.js
-- Contributing to open-source mobile tooling
-
----
-
-<div align="center">
-
-📸 **Mobile Photography Enthusiast** | 💡 **Tech Trend Explorer**  
-📫 Let's collaborate on innovative mobile/web projects!
-
-</div>
+*   🌍  I'm based in Beira, Mozambique
+*   ✉️  You can contact me at [Daiwenxuam78@gmail.com](mailto:Daiwenxuam78@gmail.com)
+*   🚀  I'm currently working on [Kodeza](http://Kodeza.vercel.app)
+*   🧠  I'm learning Flutter
+*   🤝  I'm open to collaborating on Any good project
+*   ⚡  Mobile Photography Enthusiast | 💡 Tech Trend Explorer<a href="https://www.x.com/WenXuan_D " target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/WenXuan_D ?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/Wenzino" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/Daiwenxuan_" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/WenXuan_D " target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Wenzino"><img src="https://github-readme-stats.vercel.app/api?username=Wenzino&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0f172a&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wenzino's GitHub stats" /></a><a
+                      href="http://www.github.com/Wenzino"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Wenzino&stroke=0f172a&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=0f172a&currStreakLabel=ffffff&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a><a
+                      href="http://www.github.com/Wenzino"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wenzino&bg_color=1c1917&color=0f172a&line=f97316&point=0f172a&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Wenzino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenzino&langs_count=10&title_color=ffffff&text_color=0f172a&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Wenzino/Tsamba" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=Tsamba&title_color=ffffff&text_color=0f172a&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Wenzino/kodeza" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=kodeza&title_color=ffffff&text_color=0f172a&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Wenzino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
