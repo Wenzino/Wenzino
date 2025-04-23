@@ -6,13 +6,13 @@ Software Engineer & Backend developer
 
 Building performant cross-platform solutions with cutting-edge tech 
 
-##🎯 Core Expertise 
+### 🎯 Core Expertise 
 ▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) 
 ▸ AI-Integrated Web Applications (Next.js, React, Python) 
 ▸ High-Performance Backends (Django, Supabase, PostgreSQL) 
 ▸ System-Level Optimization (C/C++ for performance-critical applications) 
 
-##🌟 Current Focus 
+### 🌟 Current Focus 
 * Building scalable mobile solutions with Flutter + Native bridges 
 * Exploring AI/ML integration in mobile environments
 * Optimizing full-stack performance with Supabase and Next.js
