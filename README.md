@@ -4,7 +4,19 @@ Hi techies![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Software Engineer & Backend developer
 -------------------------------------
 
-Building performant cross-platform solutions with cutting-edge tech 🎯 Core Expertise ▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) ▸ AI-Integrated Web Applications (Next.js, React, Python) ▸ High-Performance Backends (Django, Supabase, PostgreSQL) ▸ System-Level Optimization (C/C++ for performance-critical applications) 🌟 Current Focus Building scalable mobile solutions with Flutter + Native bridges Exploring AI/ML integration in mobile environments Optimizing full-stack performance with Supabase and Next.jsContributing to open-source mobile tooling
+Building performant cross-platform solutions with cutting-edge tech 
+
+##🎯 Core Expertise 
+▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android) 
+▸ AI-Integrated Web Applications (Next.js, React, Python) 
+▸ High-Performance Backends (Django, Supabase, PostgreSQL) 
+▸ System-Level Optimization (C/C++ for performance-critical applications) 
+
+##🌟 Current Focus 
+* Building scalable mobile solutions with Flutter + Native bridges 
+* Exploring AI/ML integration in mobile environments
+* Optimizing full-stack performance with Supabase and Next.js
+* Contributing to open-source mobile tooling
 
 * 🌍  I'm based in Beira, Mozambique
 * ✉️  You can contact me at [Daiwenxuam78@gmail.com](mailto:Daiwenxuam78@gmail.com)
@@ -13,9 +25,8 @@ Building performant cross-platform solutions with cutting-edge tech 🎯 Core Ex
 * 🤝  I'm open to collaborating on All good projects
 * ⚡  Mobile Photography Enthusiast | 💡 Tech Trend Explorer
 
-<a href="https://www.x.com/WenXuan_D " target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/WenXuan_D ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/Wenzino" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Wenzino?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -37,13 +48,11 @@ src="https://img.shields.io/twitter/follow/WenXuan_D ?logo=twitter&style=for-the
 
 <a href="http://www.github.com/Wenzino"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenzino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Wenzino"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wenzino&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Wenzino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenzino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Wenzino/Tsamba " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=Tsamba &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Wenzino/kodeza" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=kodeza&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Wenzino/Tsamba " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=Tsamba &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Wenzino/kodeza-site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=kodeza-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
