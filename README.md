@@ -1,19 +1,10 @@
 Hi techies![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wen
 ===========================================================================================================================
 
-Software Engineer & Backend developer
+CSE student & Backend developer
 -------------------------------------
 
-Building performant cross-platform solutions with cutting-edge tech 
-
-### 🎯 Core Expertise 
-▸ Cross-Platform Mobile Architectures (Flutter, Native iOS/Android)
-
-▸ AI-Integrated Web Applications (Next.js, React, Python) 
-
-▸ High-Performance Backends (Django, Supabase, PostgreSQL) 
-
-▸ System-Level Optimization (C/C++ for performance-critical applications) 
+I'm passionate about building high-performance, cross-platform solutions using cutting-edge technologies.<br>
 
 ### 🌟 Current Focus 
 * Building scalable mobile solutions with Flutter + Native bridges 
@@ -53,14 +44,20 @@ src="https://img.shields.io/github/followers/Wenzino?logo=github&style=for-the-b
 
 <a href="https://github.com/Wenzino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenzino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-<div width="100%" align="center"><a href="https://github.com/Wenzino/Tsamba " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=Tsamba &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Wenzino/kodeza-site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wenzino&repo=kodeza-site&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wenzino&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=wenzino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Wenzino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Wenzino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.paypal.com/ncp/payment/DJWFKA2PZPQ5G"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="150"/></a></li>
 </ul>
