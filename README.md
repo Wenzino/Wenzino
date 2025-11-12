@@ -7,18 +7,18 @@ CSE student & Backend developer
 
 I'm passionate about building high-performance, cross-platform solutions using cutting-edge technologies.<br>
 
-### 🌟 Current Focus 
+### Current Focus 
 * Building scalable mobile solutions with Flutter + Native bridges 
 * Exploring AI/ML integration in mobile environments
 * Optimizing full-stack performance with Supabase and Next.js
 * Contributing to open-source mobile tooling
 
-* 🌍  I'm based in Beira, Mozambique
-* ✉️  You can contact me at [Daiwenxuam78@gmail.com](mailto:Daiwenxuam78@gmail.com)
-* 🚀  I'm currently working on [Kodeza](http://Kodeza.vercel.app)
-* 🧠  I'm learning Flutter development
-* 🤝  I'm open to collaborating on All good projects
-* ⚡  Mobile Photography Enthusiast | 💡 Tech Trend Explorer
+* I'm based in Beira, Mozambique
+* You can contact me at [Daiwenxuam78@gmail.com](mailto:Daiwenxuam78@gmail.com)
+* I'm currently working on [Kodeza](http://Kodeza.vercel.app)
+* I'm learning Flutter development
+* I'm open to collaborating on All good projects
+* Mobile Photography Enthusiast | Tech Trend Explorer
 
 <a href="https://www.github.com/Wenzino" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Wenzino?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/Wenzino?logo=github&style=for-the-b
 
 <a href="https://github.com/Wenzino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenzino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
