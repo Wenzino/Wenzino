@@ -1,8 +1,6 @@
 Hi techies![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Wenxuan 
-[![committers.top badge](https://user-badge.committers.top/mozambique/wenzino.svg)](https://user-badge.committers.top/mozambique/wenzino)
-
-===========================================================================================================================
+My name is Wenxuan
+======================================================================================================================
 
 CSE student & Backend developer
 -------------------------------------
@@ -53,8 +51,11 @@ src="https://img.shields.io/github/followers/Wenzino?logo=github&style=for-the-b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wenzino&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
+[![committers.top badge](https://user-badge.committers.top/mozambique/wenzino.svg)](https://user-badge.committers.top/mozambique/wenzino)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=wenzino&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### Support Me
 
