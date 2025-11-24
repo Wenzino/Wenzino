@@ -1,11 +1,12 @@
 Hi techies![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Wen
+My name is Wenxuan [![committers.top badge](https://user-badge.committers.top/mozambique/wenzino.svg)](https://user-badge.committers.top/mozambique/wenzino)
+
 ===========================================================================================================================
 
 CSE student & Backend developer
 -------------------------------------
 
-I'm passionate about building high-performance, cross-platform solutions using cutting-edge technologies.<br>
+Thriving to build high-performance, cross-platform solutions using cutting-edge technologies.<br>
 
 ### Current Focus 
 * Building scalable mobile solutions with Flutter + Native bridges 
